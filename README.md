@@ -4,3 +4,6 @@ This repository hosts the complete PDF of my master's thesis, which details an i
 
 In this research, we tackled key challenges of multimodal contrastive learning such as long-tail data distribution and the modality gap.
 For evaluation, the focus was primarily on video retrieval and multi-instance retrieval tasks, demonstrating the practical applications and effectiveness of the proposed methods.
+
+The following figure demonstrates the pipeline of our method:
+![Pipeline Visualization](./method.png)
